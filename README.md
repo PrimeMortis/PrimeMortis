@@ -2,7 +2,7 @@
 
 I'm **Mortis**.
 
-Programming languages (and similiars) I'm familiar with:
+Programming languages (and Web Development Tools) I'm familiar with:
 
 ![C Language](https://img.shields.io/badge/Language-2c2c2c?logo=C) ![C++ Language](https://img.shields.io/badge/Language-2c2c2c?logo=C%2B%2B) ![Python](https://img.shields.io/badge/Python-2c2c2c?logo=Python)
 
@@ -11,3 +11,4 @@ Programming languages (and similiars) I'm familiar with:
 ## My Website:
 
 https://sirmortis.github.io/kaliyuga/
+
